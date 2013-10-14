@@ -98,7 +98,7 @@ class Apache24 < Formula
       <array>
         <string>#{opt_prefix}/bin/httpd</string>
         <string>-D</string>
-        <string>FORGROUND</string>
+        <string>FOREGROUND</string>
       </array>
       <key>RunAtLoad</key>
       <true/>
